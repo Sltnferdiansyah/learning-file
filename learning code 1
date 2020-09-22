@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main () {
+   int x;
+   float y;
+ 
+   x = 10;
+   y = 9.5;
+
+   printf("nilai x adalah: %i /n" x);
+   printf("nilai y adalah: %f /N" y);
+}
